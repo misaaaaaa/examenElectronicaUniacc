@@ -25,7 +25,7 @@ Para agregar imágenes utilizo la estructura \!\[texto alternativo que se ve si 
 
 ### Para agregar un pedazo de código
 
-Deben menet el código entre tres virgulillas ` ~~~ aqui su codigo ~~~ `
+Deben meter el código entre tres virgulillas ` ~~~ aqui su codigo ~~~ `
 
 ~~~
 //CONEXIONES arduino -> Driver
