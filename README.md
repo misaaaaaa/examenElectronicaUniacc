@@ -23,6 +23,22 @@ Para agregar imágenes utilizo la estructura \!\[texto alternativo que se ve si 
 
 ![stepper](./stepper.png)
 
+### Para agregar un pedazo de código
+
+Deben menet el código entre tres virgulillas ` ~~~ aqui su codigo ~~~ `
+
+~~~
+//CONEXIONES arduino -> Driver
+// ARD 2 - IN 1
+// ARD 3 - IN 2
+// ARD 4 - IN 3
+// ARD 5 - IN 4
+//SALIDAS DEL ARDUINO AL PASO A PASO
+int out1 = 2;
+int out2 = 3;
+int out3 = 4;
+int out4 = 5;
+~~~
 _______________
 
 Tutorial para trabajar con markdown [aquí](https://markdown.es/sintaxis-markdown/)
