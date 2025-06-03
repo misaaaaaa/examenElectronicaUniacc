@@ -10,7 +10,7 @@ int out3 = 4;
 int out4 = 5;
 
 int tiempo = 5;    // TIEMPO ENTRE PASOS
-int direccion = -1;  // 0 = detenido, -1 para un lado, 1 para el otro
+int direccion = 1;  // 0 = detenido, -1 para un lado, 1 para el otro
 
 void setup() {
   pinMode(out1, OUTPUT);
